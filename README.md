@@ -1,5 +1,4 @@
-<h1 align="center">Hey there 👋 </h1>
- <h1 align="center"> I'm Ishita Singh</h1>
+<h1 align="center">Hey I'm Ishita Singh </h1>
 
 Full Stack Developer | CSE Student
 Building projects, learning new technologies, and improving one bug at a time.
@@ -14,9 +13,9 @@ Building projects, learning new technologies, and improving one bug at a time.
 
 🚀 Projects
 - Airbnb Clone
-  A full-stack accommodation booking platform inspired by Airbnb.
+  : A full-stack accommodation booking platform inspired by Airbnb.
 - Speech-emotion-recognition
-  An AI-powered application that detects human emotions from speech using machine learning.
+  : An AI-powered application that detects human emotions from speech using machine learning.
 
 📚 Currently Learning
 - DSA
