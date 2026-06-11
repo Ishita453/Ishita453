@@ -1,6 +1,7 @@
-# Hi 👋 I'm Ishita Singh
+<h1 align="center">Hey there 👋 I'm Ishita Singh</h1>
 
-🎓 CSE Student
+Full Stack Developer | CSE Student
+Building projects, learning new technologies, and improving one bug at a time.
 
 💻 Tech Stack
 - C++
@@ -12,11 +13,20 @@
 
 🚀 Projects
 - Airbnb Clone
-- speech-emotion-recognition
+  A full-stack accommodation booking platform inspired by Airbnb.
+- Speech-emotion-recognition
+  An AI-powered application that detects human emotions from speech using machine learning.
 
 📚 Currently Learning
 - DSA
+- Backend Development
 - System Design
+  
+⚡ Motto
+Dream → Design → Develop → Deploy
+
+🌟 Building today for the future I imagine.
+
 
 📫 Reach me:
 Email:ishitasingh44602@gmail.com
