@@ -12,7 +12,7 @@ Building projects, learning new technologies, and improving one bug at a time.
 - MongoDB
 
 🚀 Projects
-- Airbnb Clone
+- Vista
   : A full-stack accommodation booking platform inspired by Airbnb.
 - Speech-emotion-recognition
   : An AI-powered application that detects human emotions from speech using machine learning.
@@ -26,9 +26,8 @@ Building projects, learning new technologies, and improving one bug at a time.
    
    Dream → Design → Develop → Deploy
 
-🌟 Building today for the future I imagine.
-
 
 📫 Reach me:
 Email:ishitasingh44602@gmail.com
+
 LinkedIn:https://www.linkedin.com/in/ishita-singh-ba76163b3/
