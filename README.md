@@ -1,6 +1,7 @@
 <h1 align="center">Hey I'm Ishita Singh </h1>
 
 Full Stack Developer | CSE Student
+
 Building projects, learning new technologies, and improving one bug at a time.
 
 💻 Tech Stack
