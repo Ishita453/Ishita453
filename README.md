@@ -31,4 +31,4 @@ Building projects, learning new technologies, and improving one bug at a time.
 📫 Reach me:
 Email:ishitasingh44602@gmail.com
 
-LinkedIn:https://www.linkedin.com/in/ishita-singh-ba76163b3/
+ LinkedIn:https://www.linkedin.com/in/ishita-singh-ba76163b3/
