@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Ishita Singh
 
-<!--
-**Ishita453/Ishita453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
 
-Here are some ideas to get you started:
+💻 Tech Stack
+- C++
+- Python
+- JavaScript
+- React
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Airbnb Clone
+- speech-emotion-recognition
+
+📚 Currently Learning
+- DSA
+- System Design
+
+📫 Reach me:
+Email:ishitasingh44602@gmail.com
+LinkedIn:https://www.linkedin.com/in/ishita-singh-ba76163b3/
