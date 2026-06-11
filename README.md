@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋 I'm Ishita Singh</h1>
+<h1 align="center">Hey there 👋 </h1>
+ <h1 align="center"> I'm Ishita Singh</h1>
 
 Full Stack Developer | CSE Student
 Building projects, learning new technologies, and improving one bug at a time.
