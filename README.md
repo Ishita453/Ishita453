@@ -23,6 +23,7 @@ Building projects, learning new technologies, and improving one bug at a time.
 - System Design
   
 ⚡ Motto
+   
    Dream → Design → Develop → Deploy
 
 🌟 Building today for the future I imagine.
